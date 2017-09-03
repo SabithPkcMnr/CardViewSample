@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CardView Sample</string>
+    <string name="long_text">This is a deep diving description about my cardview list. Do you think it\'s beautiful? I knew it before!</string>
+</resources>
